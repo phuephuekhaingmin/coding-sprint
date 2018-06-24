@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46f9649d-68fb-41d6-9169-7bb70de4b58d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,82 +28,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ex13.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex13.py">
+      <file leaf-file-name="ex28.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex28.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="278">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex14.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex14.py">
+      <file leaf-file-name="ex29.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex29.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="278">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex15.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex15.py">
+      <file leaf-file-name="ex30.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex30.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="278">
+              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex16.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex16.py">
+      <file leaf-file-name="ex31.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex31.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="-141">
+              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex17.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex17.py">
+      <file leaf-file-name="ex32.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex32.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#20#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new_file.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new_file.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="ex18.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex18.py">
+      <file leaf-file-name="ex33.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex33.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            <state relative-caret-position="153">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex19.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex19.py">
+      <file leaf-file-name="ex35.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex35.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="278">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.txt">
+      <file leaf-file-name="ex38.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex38.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="204">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex39.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex39.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-158">
+              <caret line="40" column="26" lean-forward="true" selection-start-line="39" selection-end-line="40" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex40.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex40.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -145,6 +159,25 @@
         <option value="$PROJECT_DIR$/ex17.py" />
         <option value="$PROJECT_DIR$/ex18.py" />
         <option value="$PROJECT_DIR$/ex19.py" />
+        <option value="$PROJECT_DIR$/ex20.py" />
+        <option value="$PROJECT_DIR$/ex21.py" />
+        <option value="$PROJECT_DIR$/ex22.py" />
+        <option value="$PROJECT_DIR$/ex23.py" />
+        <option value="$PROJECT_DIR$/languages.txt" />
+        <option value="$PROJECT_DIR$/ex24.py" />
+        <option value="$PROJECT_DIR$/ex25.py" />
+        <option value="$PROJECT_DIR$/ex26.py" />
+        <option value="$PROJECT_DIR$/ex28.py" />
+        <option value="$PROJECT_DIR$/ex29.py" />
+        <option value="$PROJECT_DIR$/ex30.py" />
+        <option value="$PROJECT_DIR$/ex31.py" />
+        <option value="$PROJECT_DIR$/ex32.py" />
+        <option value="$PROJECT_DIR$/ex33.py" />
+        <option value="$PROJECT_DIR$/ex35.py" />
+        <option value="$PROJECT_DIR$/ex36.py" />
+        <option value="$PROJECT_DIR$/ex38.py" />
+        <option value="$PROJECT_DIR$/ex39.py" />
+        <option value="$PROJECT_DIR$/ex40.py" />
       </list>
     </option>
   </component>
@@ -188,8 +221,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex20">
-    <configuration name="ex16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex40">
+    <configuration name="ex33" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding-sprint" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,49 +234,13 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex16.py" />
-      <option name="PARAMETERS" value="test.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="ex17" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="coding-sprint" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\acer\AppData\Local\Programs\Python\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex17.py" />
-      <option name="PARAMETERS" value="test.txt new_file.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="ex18" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="coding-sprint" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\acer\AppData\Local\Programs\Python\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex33.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ex19" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex35" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding-sprint" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,13 +252,13 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex35.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ex20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex38" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding-sprint" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,26 +270,62 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex20.py" />
-      <option name="PARAMETERS" value="test.txt" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex38.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ex39" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coding-sprint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\acer\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex39.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ex40" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coding-sprint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\acer\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex40.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.ex16" />
-      <item itemvalue="Python.ex17" />
-      <item itemvalue="Python.ex18" />
-      <item itemvalue="Python.ex19" />
-      <item itemvalue="Python.ex20" />
+      <item itemvalue="Python.ex33" />
+      <item itemvalue="Python.ex35" />
+      <item itemvalue="Python.ex38" />
+      <item itemvalue="Python.ex39" />
+      <item itemvalue="Python.ex40" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex20" />
-        <item itemvalue="Python.ex19" />
-        <item itemvalue="Python.ex18" />
-        <item itemvalue="Python.ex16" />
-        <item itemvalue="Python.ex17" />
+        <item itemvalue="Python.ex40" />
+        <item itemvalue="Python.ex39" />
+        <item itemvalue="Python.ex38" />
+        <item itemvalue="Python.ex35" />
+        <item itemvalue="Python.ex33" />
       </list>
     </recent_temporary>
   </component>
@@ -321,11 +354,11 @@
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25421134" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25421134" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291367" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34352517" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34352517" />
       <window_info anchor="bottom" id="Version Control" weight="0.3291367" />
       <window_info anchor="bottom" id="Python Console" weight="0.3291367" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -522,6 +555,127 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex22.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="96" column="6" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex26.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex28.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex29.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex31.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex33.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex36.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex35.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex38.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex39.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="40" column="26" lean-forward="true" selection-start-line="39" selection-end-line="40" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex40.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
